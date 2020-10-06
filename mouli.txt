@@ -1,1 +1,6 @@
 this is practical
+effects 
+advantages
+disadvantages
+performance
+
